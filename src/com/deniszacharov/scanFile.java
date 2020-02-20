@@ -21,7 +21,7 @@ public class scanFile {
         try {
             countChars();
         } catch (IOException e) {
-            System.out.println("IOException");
+            System.out.println("IOException");Re
         }
     }
 
